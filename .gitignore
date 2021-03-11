@@ -1,0 +1,15 @@
+ssl/cert.pem
+ssl/cert-key.pem
+
+logs
+*.log
+npm-debug.log*
+
+node_modules/
+.npm
+
+.config
+.bash_history
+
+.DS_Store
+Thumbs.db
